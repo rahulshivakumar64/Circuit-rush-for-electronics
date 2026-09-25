@@ -1,0 +1,6 @@
+{
+  "name": "CircuitRush - Hyperlocal Electronics Quick-Commerce",
+  "description": "Hyperlocal electronics quick-commerce delivering components, robotics parts, Arduino/ESP32 modules, and project kits in 15-30 minutes in Mysuru.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
